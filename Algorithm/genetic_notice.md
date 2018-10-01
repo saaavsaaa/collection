@@ -1,4 +1,4 @@
-基因算法部分来至于：https://github.com/bz51/GeneticAlgorithm， 也可直接点上面的genetic跳过去
+基因算法_来至于：https://github.com/bz51/GeneticAlgorithm， 也可直接点上面的genetic跳过去
 
 -----
 -----
