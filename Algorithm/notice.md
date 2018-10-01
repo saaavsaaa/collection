@@ -1,4 +1,7 @@
-基因算法部分来至于：https://github.com/bz51/GeneticAlgorithm，也可直接点上面的genetic跳过去
+基因算法部分来至于：https://github.com/bz51/GeneticAlgorithm， 也可直接点上面的genetic跳过去
+
+-----
+-----
 
 ## 采用遗传算法解决负载均衡调度问题
 算法都是用来解决实际问题的，到此为止，我想你对遗传是算法已经有了个全面的认识，下面我们就用遗传算法来解决一个实际问题——负载均衡调度问题。
@@ -89,7 +92,10 @@ function gaSearch(iteratorNum, chromosomeNum) {
 代码一来，一切都清晰了，似乎不需要过多的解释了。
 上面是遗传算法最主要的框架，其中的一些细节封装在了一个个子函数中。在理解了遗传算法的原理后，我想代码不需要我作过多的解释了吧～完整的代码在我的Github上，欢迎Star。
 
-## 结果展示
-![](genetic/img/result.png)
+## 结果展示     
+![Image](https://github.com/bz51/GeneticAlgorithm/tree/master/img/result.png)     
 上述算法一共进行了100次进化，每次进化都会生成100条染色体。图中的横坐标表示进化次数，而纵坐标表示任务执行时间。
 从图中我们可以看到，当进化约20次的时候，算法渐渐收敛于最优解。
+
+-----
+-----
