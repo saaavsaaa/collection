@@ -1,0 +1,3 @@
+[submodule "Algorithm/genetic"]
+	path = Algorithm/genetic
+	url = https://github.com/bz51/GeneticAlgorithm
